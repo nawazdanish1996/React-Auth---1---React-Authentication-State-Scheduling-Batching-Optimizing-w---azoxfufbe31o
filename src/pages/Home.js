@@ -8,3 +8,4 @@ export const Home = () =>{
             <button id='logout-btn' onClick={() => auth.logout()}>Logout</button>
         </div>
     )
+}
